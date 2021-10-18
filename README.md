@@ -84,16 +84,7 @@
 
 
 ## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/Harshita-b/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/Harshita-b/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Harshita's streak" src="[![GitHub Streak]([![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshita-b)](https://git.io/streak-stats)
-)](https://git.io/streak-stats)
-"/>
-  </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshita-b&" alt="Harshita-b" /></p>
 
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
