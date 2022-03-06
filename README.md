@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234547D4&size=35&center=true&vCenter=true&width=1000&lines=I+am+an+ML%2FAL+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234547D4&size=35&center=true&vCenter=true&width=1000&lines=I+am+an+ML%2FAI+Enthusiast)](https://git.io/typing-svg)
 - 🙌 I'm currently open to: **Data Engineering | Data Administrator**
 
 - 🔭 I’m currently working on: **Machine Learning | Data Analytics | Cloud**
