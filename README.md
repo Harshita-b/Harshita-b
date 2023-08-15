@@ -4,20 +4,20 @@
 </h3> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234547D4&size=35&center=true&vCenter=true&width=1000&lines=I+am+an+ML%2FAI+Enthusiast)](https://git.io/typing-svg)
-- 🙌 I'm currently open to: **Data Engineering | Data Administrator**
+#- 🙌 I'm currently open to: **Data Engineering | Data Administrator**
 
-- 🔭 I’m currently working on: **Machine Learning | Data Analytics | Cloud**
+- 🔭 I’m currently working on: **NLP | Computer Vision | Neural Network**
 
-- 🌱 I’m currently learning: **Big Data | Advanced SQL | Advanced Python | NLP | Deep Learning | Cloud**
+- 🌱 I’m currently learning: **Big Data | Advanced SQL | Deep Learning | Cloud**
 
 - 👯 I’m looking to collaborate on: **Developing new projects that has precise and measurable goal**
 
 
 - 📫 How to reach me:
 
-    * [**Drop a Mail**](mailto:harshitabajaj007@gmail.com)
+    * [**Drop a Mail**](mailto:harshitabajaj0009@gmail.com)
 
-    * [**Connect via LinkedIn**](https://www.linkedin.com/in/harshitabajaj15)
+    * [**Connect via LinkedIn**](https://www.linkedin.com/in/harshiitabajaj)
     
 
 - ⚡ Fun Facts: 
