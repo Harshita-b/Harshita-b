@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning: **Big Data | Advanced SQL | Deep Learning | Cloud**
 
 - 👯 I’m looking to collaborate on: **Developing new projects that has precise and measurable goal**
-
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1nVjdf_Sev6S2PTOf2ZBxBUX8YP8Tn1E0/view?usp=sharing)
 
 - 📫 How to reach me:
 
